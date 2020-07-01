@@ -1,0 +1,2 @@
+sudo rpm -ivh qualys-cloud-agent.x86_64.rpm 
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=a08ab57e-6393-4b48-959d-3f3e787ba342 CustomerId=f6c6cac2-e738-dc01-83e8-6860f9f1f294
